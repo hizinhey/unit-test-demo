@@ -1,0 +1,17 @@
+com/mycompany/mavenproject2/thrift/CategoryDir.class
+com/mycompany/mavenproject2/thrift/CategoryInfo$1.class
+com/mycompany/mavenproject2/thrift/CategoryDir$1.class
+com/mycompany/mavenproject2/thrift/CategoryInfo.class
+com/mycompany/mavenproject2/thrift/CategoryInfo$CategoryInfoStandardScheme.class
+com/mycompany/mavenproject2/database/DatabaseInterface.class
+com/mycompany/mavenproject2/thrift/CategoryInfo$CategoryInfoTupleSchemeFactory.class
+com/mycompany/mavenproject2/thrift/CategoryDir$CategoryDirTupleScheme.class
+com/mycompany/mavenproject2/constant/ErrorCode.class
+com/mycompany/mavenproject2/thrift/CategoryInfo$_Fields.class
+com/mycompany/mavenproject2/thrift/CategoryInfo$CategoryInfoTupleScheme.class
+com/mycompany/mavenproject2/thrift/CategoryDir$CategoryDirStandardSchemeFactory.class
+com/mycompany/mavenproject2/thrift/CategoryDir$_Fields.class
+com/mycompany/mavenproject2/thrift/CategoryInfo$CategoryInfoStandardSchemeFactory.class
+com/mycompany/mavenproject2/thrift/CategoryDir$CategoryDirStandardScheme.class
+.netbeans_automatic_build
+com/mycompany/mavenproject2/thrift/CategoryDir$CategoryDirTupleSchemeFactory.class

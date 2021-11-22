@@ -1,0 +1,11 @@
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/database/DatabaseInterface.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/constant/ErrorCode.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/thrift/CategoryDir.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/thrift/CategoryInfoResult.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/database/MongoDBImpl.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/thrift/CategoryIdResult.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/server/Server.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/service/http/HServer.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/service/thrift/TServer.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/thrift/StickerService.java
+/home/nghia/Project/mavenproject2/src/main/java/com/mycompany/mavenproject2/thrift/CategoryInfo.java
